@@ -29,8 +29,11 @@ body {
   border-radius: 1rem;
 }
 footer {
-  background: hsla(191, 75%, 60%, 1);
-  background: linear-gradient(90deg, rgb(1, 7, 42) 0%, rgb(10, 1, 72) 100%);
+  background: #091c36;
+}
+.navbar-toggler {
+  padding: 0;
+  border: unset;
 }
 
 .bg-black {
